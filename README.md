@@ -7,7 +7,7 @@ With this paper we can analyze data from rats treated with Capomulin, an experim
 
 ## Content
 - Jupyter Notebook: pymaceuticals_starter.ipynb which contains the entire process of data and analysis. Within the notebook, it includes the summary of the analysis and conclusions.
-- esources: The Data in a CSV format (schools_complete / students_complete) where the data was read. In this way, we can see the results.
+- Resources: The Data in a CSV format (schools_complete / students_complete) where the data was read. In this way, we can see the results.
 
 *Support:*
 
